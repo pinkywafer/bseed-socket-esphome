@@ -4,7 +4,17 @@
 
 [![Support Pinkywafer on Patreon][patreon-shield]][patreon]
 
-Companion repo for YouTube Video
+Companion repo for [YouTube Video](https://youtu.be/BG04k9Wz6lM)
+
+[Buy on Amazon](https://amzn.to/2v0jEp1)
+As an Amazon Associate I earn from qualifying purchases)
+
+[My Home Assistant config](https://github.com/pinkywafer/Home-Assistant_Config)
+
+[DrZzs flashing](https://www.youtube.com/watch?v=AU1KD_aJSMY)  (2:20)
+
+[digiblurDIY on Tuya Convert](https://www.youtube.com/watch?v=dt5-iZc4_qU)
+
 
 [patreon-shield]: https://c5.patreon.com/external/logo/become_a_patron_button.png
 [patreon]: https://www.patreon.com/pinkywafer
